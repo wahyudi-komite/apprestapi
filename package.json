@@ -1,0 +1,25 @@
+{
+  "name": "apprestapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wahyudi-komite/apprestapi.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "node",
+    "js"
+  ],
+  "author": "Wahyudi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wahyudi-komite/apprestapi/issues"
+  },
+  "homepage": "https://github.com/wahyudi-komite/apprestapi#readme"
+}
